@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISO8583Tools", "ISO8583Tools\ISO8583Tools.csproj", "{6A47CF08-7815-4D2B-8295-B45BBA0828E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISO8583Tools.Test", "ISO8583Tools.Test\ISO8583Tools.Test.csproj", "{E0FEC344-1CBA-4AFE-ADDE-F5606DE5661C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E500D96-4542-4AE2-8F91-E6B01F760810}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A47CF08-7815-4D2B-8295-B45BBA0828E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A47CF08-7815-4D2B-8295-B45BBA0828E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A47CF08-7815-4D2B-8295-B45BBA0828E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A47CF08-7815-4D2B-8295-B45BBA0828E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FEC344-1CBA-4AFE-ADDE-F5606DE5661C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FEC344-1CBA-4AFE-ADDE-F5606DE5661C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FEC344-1CBA-4AFE-ADDE-F5606DE5661C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FEC344-1CBA-4AFE-ADDE-F5606DE5661C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0437A20-BC80-4E74-8372-95B3CD4D5793}
+	EndGlobalSection
+EndGlobal
